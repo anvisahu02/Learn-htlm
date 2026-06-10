@@ -1,3 +1,19 @@
 body{
     background-color:aquamarine
 }
+h1{
+    color: red;
+}
+.head{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    word-spacing:40px;
+    letter-spacing:50px;
+    text-decoration:underline;
+    text-decoration-color:red;
+    text-decoration-style:wavy; /* */
+    text-transform: capitalize;
+    font-family: monospace;
+    font-style: italic;
+}

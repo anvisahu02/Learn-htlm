@@ -1,0 +1,13 @@
+.container{
+    background-color:tomato;
+    color:white;
+    padding-top:30px;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+}
+.container1{
+    background-color: rgba(0, 0, 0, 0.588);
+    color:white;
+    padding:30px;
+}
