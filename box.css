@@ -5,9 +5,27 @@
     padding-left:20px;
     padding-bottom:20px;
     padding-right:20px;
+    margin : 30px;
+    border: 20px double rgb(211, 23, 174)
 }
 .container1{
     background-color: rgba(0, 0, 0, 0.588);
     color:white;
     padding:30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+
+}
+.box{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+    box-shadow: 2px 4px 6px 3px black;
+    /*          x    y  blur spread color    */
+    
 }
