@@ -1,7 +1,26 @@
 .Wrapper{
 
     display: flex;
+    flex-wrap:wrap;
 }
 .parent{
     display: flex;
+    background-color: lemonchiffon;
+    justify-content: space-evenly; /* space-around, space between, start ,end, center  */
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.navbar{
+    background-color:yellow;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.navbar ul{
+    display: flex;
+    gap:60px;
+    list-style : none;
 }
