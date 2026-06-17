@@ -1,7 +1,5 @@
-.Wrapper{
-
-    display: flex;
-    flex-wrap:wrap;
+body{
+    margin:0;
 }
 .parent{
     display: flex;
@@ -9,7 +7,7 @@
     justify-content: space-evenly; /* space-around, space between, start ,end, center  */
     align-items: center;
     padding: 20px;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* for responseb*/
 }
 .navbar{
     background-color:yellow;

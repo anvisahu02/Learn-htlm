@@ -6,6 +6,33 @@
     grid-template-rows: auto auto ;
 }
 .grid div{
-    background-color: aqua;
-    border: 10px solid black;
+    
+    border: 10px solid white;
+}
+.ch1{
+    background-color: yellow;
+    grid-column-start:1 ;
+    grid-column-end:3 ;
+
+}
+.ch2{
+    background-color: rgb(10, 10, 140);
+}
+.ch3{
+    background-color: dodgerblue;
+    grid-row-start: 1;
+    grid-row-end:3 ;
+    grid-column-start: 3;
+
+}
+.ch4{
+    background-color: red;
+}
+.ch5{
+    background-color: plum;
+}
+.ch6{
+   background-color: gray;
+    grid-column-end:2 ;
+    grid-column-start:4 ;
 }
